@@ -1,0 +1,34 @@
+.navbar-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #32140b;
+    height: 3.5rem;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    margin-right: 3%;
+    
+}
+
+.navbar-btn{ 
+    background-color: #462b23;
+    padding: 0.7rem 1rem;
+    color: #ada19d;
+    border-radius: 9999px;
+    border-style: none;
+}
+
+.navbar a {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: #ada19d;
+    text-decoration: none;
+    
+}
+
+.display{
+    align-content: center;
+}

@@ -1,0 +1,24 @@
+.background-image{
+    width: 100%;
+    height: auto;
+}
+
+.main-text {
+    margin-left: 3%;
+    max-width: 410px;
+    position: absolute;
+    top: 25rem;
+}
+
+.landing-text{
+    line-height: 1.6;
+    color: #ada19d;
+}
+.landing-text-secondary{
+    color: white;
+}
+
+.secondary-text{
+    color: #ada19d;
+    margin-top: 1.5rem;
+}

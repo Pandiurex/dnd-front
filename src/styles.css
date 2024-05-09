@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'DragonHunter';
+    src: url('./assets/DragonHunter-9Ynxj.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: DragonHunter;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
